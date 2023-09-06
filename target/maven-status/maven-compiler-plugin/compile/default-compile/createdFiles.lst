@@ -1,0 +1,14 @@
+com\mycompany\ap\thejobs\resources\UsersResource.class
+com\mycompany\ap\thejobs\GenericResource.class
+thejobmain\AppointmentDB.class
+thejobmain\ManagementDB.class
+com\mycompany\ap\thejobs\JakartaRestConfiguration.class
+thejobmain\Management.class
+thejobmain\Receptionists.class
+thejobmain\ConsultantsDB.class
+thejobmain\Appointment.class
+thejobmain\ReceptionistsDB.class
+thejobmain\Consultants.class
+com\mycompany\ap\thejobs\resources\JakartaEE10Resource.class
+thejobmain\JobSeekers.class
+thejobmain\JobSeekersDB.class
